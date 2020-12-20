@@ -14,4 +14,10 @@ Extract it.
 And then install it.
 
 2. If it's a file package that contains multiple files:
-When extracted move the file to 
+When extracted move the file package to /storage/emulated/0/Android/Data
+
+3. If it's a .apk file and a .obb file:
+You need to pair them by using APKCombo installer:
+Download APKCombo installer: https://apkcombo.com/apkcombo-installer/com.apkcombo.app/
+Open APKCombo installer.
+Select the Download folder.
