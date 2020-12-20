@@ -2,9 +2,9 @@ Asphalt-8-old-versions readme.txt
 ---
 This respository contains .apk files wich are only compatible with android.
 ---
-Before using the files you need to follow these steps:
+Before using the file(s) you need to follow these steps:
 
-1. First of all you need to extract the files.
+1. First of all you need to extract the file(s).
 On android:
 Go to this link and download rar.
 https://play.google.com/store/apps/details?id=com.rarlab.rar
@@ -22,4 +22,7 @@ Download APKCombo installer: https://apkcombo.com/apkcombo-installer/com.apkcomb
 Open APKCombo installer.
 Select the Download folder.
 Select the .obb and the .apk file.
-Install them.
+Install the application.
+
+2. If you open the application and it needs to download files then let it download it.
+If it's already downloaded, or finished downloading turn of wifi because it asks to update.
