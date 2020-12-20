@@ -26,3 +26,6 @@ Install the application.
 
 2. If you open the application and it needs to download files then let it download it.
 If it's already downloaded, or finished downloading turn of wifi because it asks to update.
+
+3. I cannot grant the original versions due to the installation errors.
+Most of the versions shown here are mods (hacks).
