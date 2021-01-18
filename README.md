@@ -12,7 +12,7 @@ Go to this link and download rar.
 https://play.google.com/store/apps/details?id=com.rarlab.rar
 Open Rar.
 Now go to the Download folder and select the file(s) you need to extract.
-Extract it.
+Press the top right icon next to the bin icon to extract.
 And then install it.
 
 1.1. If it's a file package that contains multiple files:
