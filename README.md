@@ -1,33 +1,20 @@
 Asphalt-8-old-versions readme.txt
 ---
-This respository contains .apk files wich are only compatible with android.
+This respository contains .apk files wich are only compatible with Android.
 For downloads go to "releases"
 ©️ Gameloft / Original game by Gameloft
 ---
-Before using the file(s) you need to follow these steps:
+Before using the file(s) please read this:
 
-1. First of all you need to extract the file(s).
-On android:
-Go to this link and download rar.
-https://play.google.com/store/apps/details?id=com.rarlab.rar
-Open Rar.
-Now go to the Download folder and select the file(s) you need to extract.
-Press the top right icon next to the bin icon to extract.
-And then install it.
+- Every release contains a description where you could find the instructions, requirements, tutorial.
+- I cannot grant that the installation would complete with no errors.
+- I cannot grant the stability of the game. That means on some devices the game will just crash. I'm not responsible for that.
+- Many versions will show an update message if you start it with internet connection enabled, For more info check the description of the release.
+- Not all the versions are dual-installable with the new Asphalt 8. For more info check the description of the release.
+- All versions need at least Android 4.0 or above.
+- You will need adittional apps for the installation of some Asphalt 8 old versions. For more info check the description of the release.
+- Multiplayer, leaderboards, anything related to the Asphalt 8 servers won't work because of the outdated version.
+- Many of the versions are modded. That means that the cars, carrier levels etc. will be already unlocked. For more info check the description of the release.
+- THE GAMES ARE NOT MADE BY ME.
 
-1.1. If it's a file package that contains multiple files:
-When extracted move the file package to /storage/emulated/0/Android/Data
-
-1.2. If it's a .apk file and a .obb file:
-You need to pair them by using APKCombo installer:
-Download APKCombo installer: https://apkcombo.com/apkcombo-installer/com.apkcombo.app/
-Open APKCombo installer.
-Select the Download folder.
-Select the .obb and the .apk file.
-Install the application.
-
-2. If you open the application and it needs to download files then let it download it.
-If it's already downloaded, or finished downloading turn of wifi because it asks to update.
-
-3. I cannot grant the original versions due to the installation errors.
-Most of the versions shown here are mods (hacks).
+Anyways, have fun with these!
