@@ -1,7 +1,5 @@
 # Asphalt-8-old-versions
-## This respository contains .apk files wich are only compatible with Android.
-For downloads go to "releases"
----
+
 Before using the file(s) please read this:
 
 - Every release contains a description where you could find the instructions, requirements, tutorial.
