@@ -2,12 +2,12 @@
 
 ### Important information:
 
-This game is not made by me.
+**This game is not made by me.**
 
-**© 2013 Gameloft. All Rights Reserved. Gameloft, the Gameloft logo and Asphalt are trademarks
-of Gameloft in the U.S. and/or other countries. All manufacturers, cars, names, brands and
-associated imagery featured in the Asphalt 8 mobile game are trademarks and/or copy righted
-materials of their respective owners.
+**© 2013 Gameloft. All Rights Reserved. Gameloft, the Gameloft logo and Asphalt are trademarks**
+**of Gameloft in the U.S. and/or other countries. All manufacturers, cars, names, brands and**
+**associated imagery featured in the Asphalt 8 mobile game are trademarks and/or copy righted**
+**materials of their respective owners.**
 
 **This content is not specifically approved by Gameloft.**
 
