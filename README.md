@@ -1,7 +1,6 @@
 # Asphalt-8-old-versions
-This respository contains .apk files wich are only compatible with Android.
+## This respository contains .apk files wich are only compatible with Android.
 For downloads go to "releases"
-©️ Gameloft / Original game by Gameloft
 ---
 Before using the file(s) please read this:
 
