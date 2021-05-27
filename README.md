@@ -26,4 +26,4 @@
 - Many of the versions are modded. That means that the cars, carrier levels etc. will be already unlocked. For more info check the description of the release.
 - Asphalt 8 is **NOT** made by me.
 
-To start go to releases or click this link: [Go to releases](https://github.com/Null-the-zero/Asphalt-8-old-versions/releases)
+**To start go to releases or click this link:** [Go to releases](https://github.com/Null-the-zero/Asphalt-8-old-versions/releases)
