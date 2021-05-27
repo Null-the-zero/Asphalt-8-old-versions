@@ -13,7 +13,7 @@
 
 ---
 
-Before using the file(s) please read this:
+**Before using the file(s) please read this:**
 
 - Every release contains a description where you could find the instructions, requirements, tutorial.
 - I cannot grant that the installation would complete with no errors.
@@ -26,4 +26,4 @@ Before using the file(s) please read this:
 - Many of the versions are modded. That means that the cars, carrier levels etc. will be already unlocked. For more info check the description of the release.
 - Asphalt 8 is **NOT** made by me.
 
-Anyways, have fun with these!
+To start go to releases or click this link: [Go to releases](https://github.com/Null-the-zero/Asphalt-8-old-versions/releases)
